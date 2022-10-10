@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.21)  9 OCT 2022 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.21)  9 OCT 2022 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Proposal
-(./Proposal
+(./Proposal.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
@@ -369,45 +369,29 @@ LaTeX Info: Redefining \nameref on input line 20.
 \@outlinefile=\write3
 \openout3 = `Proposal.out'.
 
+ [1
 
-
-Package natbib Warning: Citation `2021Grand' on page 1 undefined on input line 
-25.
-
-
-Package natbib Warning: Citation `Nag2022Tennis' on page 1 undefined on input l
-ine 32.
-
-[1
-
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `Jurejko2018French' on page 2 undefined on inp
-ut line 39.
-
-No file Proposal.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-[2] (./Proposal.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Prop
+osal.bbl) [2] (./Proposal.aux)
 Package rerunfilecheck Info: File `Proposal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9345 strings out of 478268
- 144902 string characters out of 5846347
- 451852 words of memory out of 5000000
- 27465 multiletter control sequences out of 15000+600000
- 471527 words of font info for 36 fonts, out of 8000000 for 9000
+ 9364 strings out of 478268
+ 145281 string characters out of 5846347
+ 451947 words of memory out of 5000000
+ 27477 multiletter control sequences out of 15000+600000
+ 472480 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,1043b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,63p,1043b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Proposal.pdf (2 pages, 51043 bytes).
+/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
+sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Proposal.pdf (2 pages, 64248 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 56 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
