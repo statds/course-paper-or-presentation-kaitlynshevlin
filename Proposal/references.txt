@@ -14,8 +14,7 @@
  author = {Jonathan Jurejko},
  journal = {BBC Sport},
  year = {2018},
- publisher = {Society for Tennis Medicine and Science},
- url = {https://www.bbc.com/sport/tennis/44385223}
+ publisher = {Society for Tennis Medicine and Science}
 }
 
 @mastersthesis{Sipko2015Machine,
@@ -40,9 +39,17 @@
 }
 
 @misc{2021Grand, 
- title={GRAND SLAM® TOURNAMENTS},  
- journal={Itftennis.com}, 
- publisher={International Tennis Federation}, 
- year={2021},
- url={https://www.itftennis.com/en/itf-tours/grand-slam-tournaments/}
+ title = {GRAND SLAM® TOURNAMENTS},  
+ journal = {Itftennis.com}, 
+ publisher = {International Tennis Federation}, 
+ year = {2021},
+ url = {https://www.itftennis.com/en/itf-tours/grand-slam-tournaments/}
+}
+
+@article{Nag2022Tennis, 
+ title = {Tennis rankings: How they work and difference between ATP and WTA systems},
+ author = {Utathya Nag},  
+ journal = {Olympics.com}, 
+ publisher = {Olympics}, 
+ year = {2022}
 }
