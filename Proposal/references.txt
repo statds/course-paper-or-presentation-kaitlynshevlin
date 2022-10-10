@@ -1,0 +1,48 @@
+@article{Schwartz1977The,
+ title = {How the tennis court surface affects player performance and injuries},
+ author = {Tristan Barnett and Graham Pollard},
+ journal = {Medicine and Science in Tennis},
+ volume = {12},
+ number = {1},
+ pages = {34--37},
+ year = {2007},
+ publisher = {Society for Tennis Medicine and Science}
+}
+
+@article{Jurejko2018French,
+ title = {French Open 2018: Why does 'king of clay' Rafael Nadal reign supreme?},
+ author = {Jonathan Jurejko},
+ journal = {BBC Sport},
+ year = {2018},
+ publisher = {Society for Tennis Medicine and Science},
+ url = {https://www.bbc.com/sport/tennis/44385223}
+}
+
+@mastersthesis{Sipko2015Machine,
+ title = {Machine Learning for the Prediction of Professional Tennis Matches},
+ author = {Michal Sipko},
+ institution = {Imperial College London},
+ year = {2015}
+}
+
+@book{Albert2016Handbook,
+ title = {Handbook of Statistical Methods and Analyses in Sports},
+ author = {Jim Albert, Mark E. Glickman, Tim B. Swartz, Ruud H. Koning},
+ year = {2016},
+ publisher = {CRC Press}
+}
+
+@misc{Wonduk2022Men's,
+ title = {Men's Tennis Grand Slam Winner dataset},
+ author = {Jim Albert, Mark E. Glickman, Tim B. Swartz, Ruud H. Koning},
+ year = {2022},
+ number = {2}
+}
+
+@misc{2021Grand, 
+ title={GRAND SLAM® TOURNAMENTS},  
+ journal={Itftennis.com}, 
+ publisher={International Tennis Federation}, 
+ year={2021},
+ url={https://www.itftennis.com/en/itf-tours/grand-slam-tournaments/}
+}
