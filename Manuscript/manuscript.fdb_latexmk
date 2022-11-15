@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex manuscript"] 1668486376 "manuscript.aux" "manuscript.bbl" "manuscript" 1668486376
+["bibtex manuscript"] 1668486524 "manuscript.aux" "manuscript.bbl" "manuscript" 1668486524
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
   "manuscript.aux" 1668486244 2369 1ae49ba8fc19aa3273a8af66f8cae4f8 "pdflatex"
   "refs.bib" 0 -1 0 ""
   (generated)
   "manuscript.bbl"
   "manuscript.blg"
-["pdflatex"] 1668486243 "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1668486376
-  "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" 1668486375 11615 a05d150ff8441d22423070ad36565662 ""
+["pdflatex"] 1668486243 "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1668486524
+  "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" 1668486523 11615 a05d150ff8441d22423070ad36565662 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -97,7 +97,7 @@
   "manuscript.aux" 1668486244 2369 1ae49ba8fc19aa3273a8af66f8cae4f8 "pdflatex"
   "manuscript.bbl" 0 -1 0 "bibtex manuscript"
   "manuscript.out" 1668486244 410 addf6419cd32f79d1aa3cdcc097049d8 "pdflatex"
-  "manuscript.tex" 1668486375 11615 a05d150ff8441d22423070ad36565662 ""
+  "manuscript.tex" 1668486523 11615 a05d150ff8441d22423070ad36565662 ""
   "surfaceoutcome.pdf" 1668484866 7214 de4e9a2e47dd80361c19dbf929c520b0 ""
   (generated)
   "manuscript.aux"
