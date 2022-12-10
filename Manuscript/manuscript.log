@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.21)  14 NOV 2022 23:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.21)  9 DEC 2022 21:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -270,7 +270,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count292
 \l__pdf_internal_box=\box54
-) (./manuscript.aux)
+) (./manuscript.aux
+
+LaTeX Warning: Label `eq:logreg' multiply defined.
+
+)
 \openout1 = `manuscript.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -375,7 +379,7 @@ LaTeX Info: Redefining \nameref on input line 15.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 46--54
+Underfull \hbox (badness 10000) in paragraph at lines 46--61
 
  []
 
@@ -383,120 +387,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--54
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 
-      [1]
-
-Package natbib Warning: Citation `Nag2022Tennis' on page 2 undefined on input line 106.
-
-
-Overfull \hbox (2.39511pt too wide) in paragraph at lines 129--129
+l.88 
+      [1] [2]
+Overfull \hbox (2.39511pt too wide) in paragraph at lines 152--152
 []\OT1/cmr/m/n/12 R16| 
  []
 
 
-Overfull \hbox (2.39511pt too wide) in paragraph at lines 129--129
+Overfull \hbox (2.39511pt too wide) in paragraph at lines 152--152
 []\OT1/cmr/m/n/12 R32| 
  []
 
 
-Overfull \hbox (2.39511pt too wide) in paragraph at lines 129--129
+Overfull \hbox (2.39511pt too wide) in paragraph at lines 152--152
 []\OT1/cmr/m/n/12 R64| 
  []
 
 
-Overfull \hbox (8.27005pt too wide) in paragraph at lines 129--129
+Overfull \hbox (8.27005pt too wide) in paragraph at lines 152--152
 []\OT1/cmr/m/n/12 R128| 
  []
 
 
-Overfull \hbox (5.49785pt too wide) in paragraph at lines 131--131
+Overfull \hbox (5.49785pt too wide) in paragraph at lines 154--154
 []\OT1/cmr/m/n/12 2000| 
  []
 
 
-Overfull \hbox (5.49785pt too wide) in paragraph at lines 131--131
+Overfull \hbox (5.49785pt too wide) in paragraph at lines 154--154
 []\OT1/cmr/m/n/12 1200| 
  []
 
 
-Overfull \hbox (5.49785pt too wide) in paragraph at lines 133--133
+Overfull \hbox (5.49785pt too wide) in paragraph at lines 156--156
 []\OT1/cmr/m/n/12 1000| 
  []
 
 
-Overfull \hbox (5.49785pt too wide) in paragraph at lines 135--135
+Overfull \hbox (5.49785pt too wide) in paragraph at lines 158--158
 []\OT1/cmr/m/n/12 1000| 
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 145--145
+Underfull \hbox (badness 1609) in paragraph at lines 168--168
 []\OT1/cmr/m/n/12 ATP Chal-lenger Tour
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 147--147
+Underfull \hbox (badness 1609) in paragraph at lines 170--170
 []\OT1/cmr/m/n/12 ATP Chal-lenger Tour
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 149--149
+Underfull \hbox (badness 1609) in paragraph at lines 172--172
 []\OT1/cmr/m/n/12 ATP Chal-lenger Tour
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 151--151
+Underfull \hbox (badness 1609) in paragraph at lines 174--174
 []\OT1/cmr/m/n/12 ATP Chal-lenger Tour
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 153--153
+Underfull \hbox (badness 1609) in paragraph at lines 176--176
 []\OT1/cmr/m/n/12 ATP Chal-lenger Tour
  []
 
-
-Package natbib Warning: Citation `Bodo2022Rankings' on page 2 undefined on input line 166.
-
-[2]
-
-Package natbib Warning: Citation `TennisBetting' on page 3 undefined on input line 176.
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
-[4] [5]
-<surfaceoutcome.pdf, id=59, 505.89pt x 505.89pt>
+[5] [6]
+<assumptions.pdf, id=87, 1405.25pt x 868.24374pt>
+File: assumptions.pdf Graphic file (type pdf)
+<use assumptions.pdf>
+Package pdftex.def Info: assumptions.pdf  used on input line 313.
+(pdftex.def)             Requested size: 702.62329pt x 434.1208pt.
+ [7 <./assumptions.pdf>]
+<surfaceoutcome.pdf, id=95, 505.89pt x 505.89pt>
 File: surfaceoutcome.pdf Graphic file (type pdf)
 <use surfaceoutcome.pdf>
-Package pdftex.def Info: surfaceoutcome.pdf  used on input line 296.
-(pdftex.def)             Requested size: 469.75502pt x 469.76265pt.
+Package pdftex.def Info: surfaceoutcome.pdf  used on input line 376.
+(pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
 
-No file manuscript.bbl.
 
-Package natbib Warning: There were undefined citations.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6] [7 <./surfaceoutcome.pdf>] (./manuscript.aux)
+<rankoutcome.pdf, id=96, 937.5025pt x 579.16376pt>
+File: rankoutcome.pdf Graphic file (type pdf)
+<use rankoutcome.pdf>
+Package pdftex.def Info: rankoutcome.pdf  used on input line 388.
+(pdftex.def)             Requested size: 468.7501pt x 289.58116pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<logreg.pdf, id=100, 466.74374pt x 490.83376pt>
+File: logreg.pdf Graphic file (type pdf)
+<use logreg.pdf>
+Package pdftex.def Info: logreg.pdf  used on input line 404.
+(pdftex.def)             Requested size: 116.68564pt x 122.70813pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8] [9 <./surfaceoutcome.pdf>] [10 <./rankoutcome.pdf>] [11 <./logreg.pdf>] (./manuscript.bbl [12]) [13] (./manuscript.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `manuscript.out' has not changed.
-(rerunfilecheck)             Checksum: ADDF6419CD32F79D1AA3CDCC097049D8;410.
+(rerunfilecheck)             Checksum: 2940BEB7812DCD36BC314D0B9232C45C;435.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 42 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11144 strings out of 478268
- 179578 string characters out of 5846347
- 508610 words of memory out of 5000000
- 29212 multiletter control sequences out of 15000+600000
- 475702 words of font info for 50 fonts, out of 8000000 for 9000
+ 11212 strings out of 478268
+ 180868 string characters out of 5846347
+ 509177 words of memory out of 5000000
+ 29255 multiletter control sequences out of 15000+600000
+ 475742 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,336b,409s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on manuscript.pdf (8 pages, 123278 bytes).
+ 60i,11n,63p,336b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on manuscript.pdf (14 pages, 540555 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
