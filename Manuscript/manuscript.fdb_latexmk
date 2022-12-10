@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex manuscript"] 1670640200 "manuscript.aux" "manuscript.bbl" "manuscript" 1670640295
+["bibtex manuscript"] 1670640200 "manuscript.aux" "manuscript.bbl" "manuscript" 1670640517
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "manuscript.aux" 1670640295 4022 efd9ed10ae20096fc850496c18f3289b "pdflatex"
+  "manuscript.aux" 1670640517 4022 efd9ed10ae20096fc850496c18f3289b "pdflatex"
   "references.bib" 1670633179 2814 82639c2dd628ba3cf8a98b456f932976 ""
   (generated)
   "manuscript.bbl"
   "manuscript.blg"
-["pdflatex"] 1670640293 "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1670640295
-  "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" 1670640293 20051 aa1fbbf2c4ef125f773611a5007b6e82 ""
+["pdflatex"] 1670640515 "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" "manuscript.pdf" "manuscript" 1670640517
+  "/Users/kaitlynshevlin/work/course-paper-or-presentation-kaitlynshevlin/Manuscript/manuscript.tex" 1670640515 20050 b4e1dc55abcd39f8d59e2375431535a3 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -100,10 +100,10 @@
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "assumptions.pdf" 1670632935 221540 f4f87a8cb4a72f6d2f038da1fe0ea590 ""
   "logreg.pdf" 1670636788 212804 8d75ef04fb65507ab2c57c88c4e6db61 ""
-  "manuscript.aux" 1670640295 4022 efd9ed10ae20096fc850496c18f3289b "pdflatex"
+  "manuscript.aux" 1670640517 4022 efd9ed10ae20096fc850496c18f3289b "pdflatex"
   "manuscript.bbl" 1670640200 1482 55532753a26ff215beec015ce4f30004 "bibtex manuscript"
-  "manuscript.out" 1670640295 435 2940beb7812dcd36bc314d0b9232c45c "pdflatex"
-  "manuscript.tex" 1670640293 20051 aa1fbbf2c4ef125f773611a5007b6e82 ""
+  "manuscript.out" 1670640517 435 2940beb7812dcd36bc314d0b9232c45c "pdflatex"
+  "manuscript.tex" 1670640515 20050 b4e1dc55abcd39f8d59e2375431535a3 ""
   "rankoutcome.pdf" 1670623278 65194 ff1c34cb8e6f3dc81395b80325f63b6a ""
   "surfaceoutcome.pdf" 1668486616 7214 de4e9a2e47dd80361c19dbf929c520b0 ""
   (generated)
